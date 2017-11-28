@@ -101,6 +101,15 @@ export default class Presentation extends React.Component {
           >
             https://github.com/jarretmoses/rn-meetup-scroll-example
           </Text>
+          <Text
+            margin="24px 0 0"
+            textColor="primary"
+            textSize={21}
+            italic
+            bold
+          >
+            https://github.com/jarretmoses/rn-meetup-slides
+          </Text>
         </Slide>
         <Slide
           transition={["fade"]}
