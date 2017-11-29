@@ -34,10 +34,7 @@ export default class Presentation extends React.Component {
             Upgrade Your ScrollView
           </Heading>
           <Text margin="10px 0 0" textColor="primary" textSize={24} italic bold>
-            Using Animations onScroll
-          </Text>
-          <Text margin="10px 0 0" textColor="primary" textSize={20} italic bold>
-            - Jarret Moses
+            Jarret Moses - Software Engineer @ Big Human
           </Text>
         </Slide>
         <Slide transition={["fade"]} bgColor="secondary">
@@ -63,7 +60,7 @@ export default class Presentation extends React.Component {
           <Text
             margin="10px 0 0"
             textColor="primary"
-            textSize={21}
+            textSize={22}
             italic
             bold
           >
@@ -72,7 +69,7 @@ export default class Presentation extends React.Component {
           <Text
             margin="24px 0 0"
             textColor="primary"
-            textSize={21}
+            textSize={22}
             italic
             bold
           >
@@ -90,20 +87,11 @@ export default class Presentation extends React.Component {
           <Text
             margin="24px 0 0"
             textColor="primary"
-            textSize={21}
+            textSize={22}
             italic
             bold
           >
             https://github.com/jarretmoses/rn-meetup-scroll-example
-          </Text>
-          <Text
-            margin="24px 0 0"
-            textColor="primary"
-            textSize={21}
-            italic
-            bold
-          >
-            https://github.com/jarretmoses/rn-meetup-slides
           </Text>
         </Slide>
         <Slide
@@ -117,20 +105,20 @@ export default class Presentation extends React.Component {
             italic
             textColor="tertiary"
           >
-            @jarretmoses
+            @jarretmoses (Twitter)
           </Text>
           <Text
             margin="0 0 24px 0"
             bold
             italic textColor="tertiary"
           >
-            jarret.moses@gmail.com
+            jarret.moses@gmail.com (Email)
           </Text>
           <Text
             bold
             italic textColor="tertiary"
           >
-            github.com/jarretmoses
+            github.com/jarretmoses (Github)
           </Text>
         </Slide>
       </Deck>
